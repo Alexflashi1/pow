@@ -1,0 +1,54 @@
+header{
+	background-color: black;
+	size: 50px;
+	padding: 1px;
+	margin-bottom: 4px;
+}
+nav{
+	color: white;
+	background-color: lightgreen;
+	text-align-last: center;
+	padding:5px;
+}
+section{
+	background-color: black;
+	color:white;
+	padding: 60px;
+	padding-bottom: 48px;
+	margin-right: 350px;
+	margin-top: 5px;
+}
+#uno{
+	text-align-last: right;
+}
+.bienvenido{
+	text-align-last: center;
+	color:lightgreen;
+}
+.navegar{
+	color:white;
+	text-align-last: center;
+
+}
+.art1{
+	background-color: lightblue;
+	padding: 40px;
+	margin-top: 25px;
+}
+.contacto{
+	background-color: purple;
+	padding: 15px;
+	margin-top: 5px;
+}
+aside{
+	background-color: darkgreen;
+	padding: 60px;
+	margin-left: 150px;
+	float: right;
+	float: top;
+	margin-top: 5px;
+	padding-bottom: 360px;
+}
+a{
+	margin-left: 5px;
+}
